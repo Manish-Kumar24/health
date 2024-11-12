@@ -1,0 +1,13 @@
+numpy==1.24.3
+sentence-transformers
+langchain
+flask
+pypdf
+python-dotenv
+pinecone-client[grpc]
+langchain-pinecone
+langchain_community
+langchain_experimental
+transformers
+langchain-huggingface
+langchain-openai
